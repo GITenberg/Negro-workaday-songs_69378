@@ -1,0 +1,44 @@
+_repo: Negro-workaday-songs_69378
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Johnson, Guy Benton
+    alias: Johnson, Guy B.
+    birthdate: 1901
+    deathdate: 1991
+    gutenberg_agent_id: '55234'
+    url: http://www.gutenberg.org/2009/agents/55234
+    wikipedia: https://en.wikipedia.org/wiki/Guy_Benton_Johnson
+  - agent_name: Odum, Howard Washington
+    alias: Odum, Howard W.
+    birthdate: 1884
+    deathdate: 1954
+    gutenberg_agent_id: '39825'
+    url: http://www.gutenberg.org/2009/agents/39825
+    wikipedia: https://en.wikipedia.org/wiki/Howard_W._Odum
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69378'
+  lccn: '26014118'
+language: en
+pgterms:marc904: https://archive.org/details/negroworkadayson00odum/page/n7/mode/2up
+pgterms:marc905: 20211123050814odum
+pgterms:marc906: '1926'
+pgterms:marc907: NC
+production_note: Tim Lindell, Harry Lamé, Jude Eylander and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: 'New Caledonia: University of North Carolina Press,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Music -- History and criticism'
+- !lcsh 'Folk music -- Southern States -- History and criticism'
+- !lcsh 'Folk songs, English -- Southern States -- History and criticism'
+- !lcsh 'Work songs -- Southern States -- History and criticism'
+- !lcc 'ML'
+- GITenberg
+title: Negro workaday songs
+url: http://www.gutenberg.org/ebooks/69378
